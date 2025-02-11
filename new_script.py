@@ -1,2 +1,4 @@
-motto = "Dont't wait untill it's too late"
+motto = "Dont't wait until it's too late"
 print(motto)
+calculations = (7 *(2+8))
+print(calculations)
