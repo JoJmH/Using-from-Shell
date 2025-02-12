@@ -1,13 +1,13 @@
-import new_script
+import calculations
 
 def main():
     print("Welcome to the Python Project!")
 
 def subtract():
-    print(f"Subtracting two numbers and the answer is:", new_script.subtract(5, 3))
+    print(f"Subtracting two numbers and the answer is:", calculations.subtract(5, 3))
     
 def add():
-    print(f"Adding two numbers and the answer is:", new_script.add(3, 5))
+    print(f"Adding two numbers and the answer is:", calculations.add(3, 5))
 
 if __name__ == "__main__":
     main()
