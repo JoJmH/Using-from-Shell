@@ -1,6 +1,5 @@
 # Guess the game(computer)
 import random
-import main
 
 def guess(x):
     random_number = random.randint(1, x)
